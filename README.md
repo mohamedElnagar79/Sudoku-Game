@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **node js , React ,angular**
 
-- 👯 I’m looking to collaborate on **team task**
 
 - 💬 Ask me about **React , Node js,Angular**
 
